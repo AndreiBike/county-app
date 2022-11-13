@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/county-app/static/css/main.5fd01a3a.chunk.css",
+    "main.js": "/county-app/static/js/main.44695835.chunk.js",
+    "main.js.map": "/county-app/static/js/main.44695835.chunk.js.map",
+    "runtime-main.js": "/county-app/static/js/runtime-main.88771054.js",
+    "runtime-main.js.map": "/county-app/static/js/runtime-main.88771054.js.map",
+    "static/css/2.ba8a8a05.chunk.css": "/county-app/static/css/2.ba8a8a05.chunk.css",
+    "static/js/2.7f299986.chunk.js": "/county-app/static/js/2.7f299986.chunk.js",
+    "static/js/2.7f299986.chunk.js.map": "/county-app/static/js/2.7f299986.chunk.js.map",
+    "static/js/3.0ca6cdeb.chunk.js": "/county-app/static/js/3.0ca6cdeb.chunk.js",
+    "static/js/3.0ca6cdeb.chunk.js.map": "/county-app/static/js/3.0ca6cdeb.chunk.js.map",
+    "index.html": "/county-app/index.html",
+    "static/css/2.ba8a8a05.chunk.css.map": "/county-app/static/css/2.ba8a8a05.chunk.css.map",
+    "static/css/main.5fd01a3a.chunk.css.map": "/county-app/static/css/main.5fd01a3a.chunk.css.map",
+    "static/js/2.7f299986.chunk.js.LICENSE.txt": "/county-app/static/js/2.7f299986.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88771054.js",
+    "static/css/2.ba8a8a05.chunk.css",
+    "static/js/2.7f299986.chunk.js",
+    "static/css/main.5fd01a3a.chunk.css",
+    "static/js/main.44695835.chunk.js"
+  ]
+}
